@@ -1,0 +1,6 @@
+main/__pycache__
+main/migrations
+personal_website/__pycache
+assets/
+stderr.log
+passenger_wsgi.py
